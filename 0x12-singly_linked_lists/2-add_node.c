@@ -1,6 +1,6 @@
 /*
  * File: 2-add_node.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Joy Emojorho 
  */
 
 #include <stdlib.h>
