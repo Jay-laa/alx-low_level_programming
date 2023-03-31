@@ -1,6 +1,5 @@
 /*
  * File: 2-add_node.c
- * Auth: Joy Emojorho 
  */
 
 #include <stdlib.h>
