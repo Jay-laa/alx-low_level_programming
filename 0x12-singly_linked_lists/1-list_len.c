@@ -1,6 +1,5 @@
 /*
  * File: 1-list_len.c
- * Author: Joy Emojorho
  */
 
 #include "lists.h"
