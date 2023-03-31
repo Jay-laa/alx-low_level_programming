@@ -1,6 +1,5 @@
 /*
  * File: 4-free_list.c
- * Author: Joy Emojorho
  */
 
 #include "lists.h"
