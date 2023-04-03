@@ -1,10 +1,10 @@
 C - More singly linked lists 
 
-Description: Throughout this project, I honed my skills in constructing and utilizing singly linked lists using the C programming language.
+DESCRIPTION: Throughout this project, I honed my skills in constructing and utilizing singly linked lists using the C programming language.
 
 lists.h: Header file containing definitions and prototypes for all types and functions written for the project.
 
-Type/File: Definition/Prototype	
+\\\\\\Type/File: Definition/Prototype//////	
 struct listint_s: int n && struct listint_s *next
 
 typedef listint_t:	struct listint_s
@@ -39,7 +39,7 @@ typedef listint_t:	struct listint_s
 
 103-find_loop.c:	listint_t *find_listint_loop(listint_t *head);
 
-TASKS
+\\\\\\TASKS//////
 
 0. Print list
 
